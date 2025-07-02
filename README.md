@@ -31,7 +31,7 @@ My Linkedin: https://www.linkedin.com/in/aryanwarjurkar
 
 ```
 # Clone this repository
-$ git clone https://github.com/harisahmad59/Hypefolio
+$ git clone https://github.com/AryanWarjurkar/Responsive-Portfolio-Project.git
 
 # Go into the repository
 $ cd Hypefolio
